@@ -1,0 +1,34 @@
+# 
+# Wavefront material file
+# Converted by 3D Exploration 1.7 beta
+# XDimension Software, LLC
+# http://www.xdsoft.com/explorer/
+# 
+newmtl GTA_Mtl
+	 Ka 1 1 1
+	 Kd 1 1 1
+	 Ks 0 0 0
+	 illum 2
+	 Ns 2048
+	 map_Kd AIRBLO~1.jpg
+newmtl GTA_Mtl1
+	 Ka 1 1 1
+	 Kd 1 1 1
+	 Ks 0 0 0
+	 illum 2
+	 Ns 2048
+	 map_Kd AIRBLO~2.jpg
+newmtl GTA_Mtl2
+	 Ka 1 1 1
+	 Kd 1 1 1
+	 Ks 0 0 0
+	 illum 2
+	 Ns 2048
+	 map_Kd AIRBLO~3.jpg
+newmtl GTA_Mtl3
+	 Ka 1 1 1
+	 Kd 1 1 1
+	 Ks 0 0 0
+	 illum 2
+	 Ns 2048
+	 map_Kd AIRBLO~4.jpg

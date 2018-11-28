@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: deddbc4ad728bac4a99f5a889feaf579
+timeCreated: 1490784283
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ___DUMMY_Group01
+    100002: ___DUMMY_Group01_001
+    100004: Arc001
+    100006: Box104
+    100008: Box1579000
+    100010: Box1579001
+    100012: Box1579009
+    100014: ChamferBo0
+    100016: ChamferBox
+    100018: Cube
+    100020: Cube_002
+    100022: Cube_003
+    100024: Cube_004
+    100026: Cube_005
+    100028: Cube_006
+    100030: Cube_007
+    100032: //RootNode
+    100034: Line178950
+    100036: Line178951
+    100038: Line178953
+    100040: Line469
+    100042: loewe_butt
+    100044: Mesh01
+    100046: Mesh01_001
+    100048: Sphere001
+    400000: ___DUMMY_Group01
+    400002: ___DUMMY_Group01_001
+    400004: Arc001
+    400006: Box104
+    400008: Box1579000
+    400010: Box1579001
+    400012: Box1579009
+    400014: ChamferBo0
+    400016: ChamferBox
+    400018: Cube
+    400020: Cube_002
+    400022: Cube_003
+    400024: Cube_004
+    400026: Cube_005
+    400028: Cube_006
+    400030: Cube_007
+    400032: //RootNode
+    400034: Line178950
+    400036: Line178951
+    400038: Line178953
+    400040: Line469
+    400042: loewe_butt
+    400044: Mesh01
+    400046: Mesh01_001
+    400048: Sphere001
+    2300000: Arc001
+    2300002: Box104
+    2300004: Box1579000
+    2300006: Box1579001
+    2300008: Box1579009
+    2300010: ChamferBo0
+    2300012: ChamferBox
+    2300014: Cube
+    2300016: Cube_002
+    2300018: Cube_003
+    2300020: Cube_004
+    2300022: Cube_005
+    2300024: Cube_006
+    2300026: Cube_007
+    2300028: Line178950
+    2300030: Line178951
+    2300032: Line178953
+    2300034: Line469
+    2300036: loewe_butt
+    2300038: Mesh01
+    2300040: Mesh01_001
+    2300042: Sphere001
+    3300000: Arc001
+    3300002: Box104
+    3300004: Box1579000
+    3300006: Box1579001
+    3300008: Box1579009
+    3300010: ChamferBo0
+    3300012: ChamferBox
+    3300014: Cube
+    3300016: Cube_002
+    3300018: Cube_003
+    3300020: Cube_004
+    3300022: Cube_005
+    3300024: Cube_006
+    3300026: Cube_007
+    3300028: Line178950
+    3300030: Line178951
+    3300032: Line178953
+    3300034: Line469
+    3300036: loewe_butt
+    3300038: Mesh01
+    3300040: Mesh01_001
+    3300042: Sphere001
+    4300000: loewe_butt
+    4300002: Mesh01_001
+    4300004: Cube_007
+    4300006: Cube_006
+    4300008: Cube_005
+    4300010: Cube_004
+    4300012: Cube_003
+    4300014: Cube_002
+    4300016: Mesh01
+    4300018: Cube
+    4300020: Line178951
+    4300022: Line178950
+    4300024: ChamferBo0
+    4300026: ChamferBox
+    4300028: Box1579001
+    4300030: Box1579000
+    4300032: Box1579009
+    4300034: Line178953
+    4300036: Arc001
+    4300038: Sphere001
+    4300040: Box104
+    4300042: Line469
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: 6c2fd5fc1dcece047ac3fe5cd78c0dda
+timeCreated: 1488447521
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube_001
+    100004: Cube_002
+    100006: //RootNode
+    100008: Cylinder
+    100010: Cube_003
+    100012: Cube_004
+    100014: Cube_005
+    100016: Cube_006
+    100018: Cube_007
+    100020: Mesh01
+    100022: Mesh01_001
+    100024: ___DUMMY_Group01
+    100026: Arc001
+    100028: Box104
+    100030: Line469
+    100032: Sphere001
+    100034: ___DUMMY_Group01_001
+    100036: Box1579000
+    100038: Box1579001
+    100040: Box1579009
+    100042: ChamferBo0
+    100044: ChamferBox
+    100046: Line178950
+    100048: Line178951
+    100050: Line178953
+    100052: fixture
+    100054: foot_botto
+    100056: loewe_butt
+    100058: Loewe_Indi
+    100060: Stereospea
+    100062: Plane
+    100064: Plane_001
+    400000: Cube
+    400002: Cube_001
+    400004: Cube_002
+    400006: //RootNode
+    400008: Cylinder
+    400010: Cube_003
+    400012: Cube_004
+    400014: Cube_005
+    400016: Cube_006
+    400018: Cube_007
+    400020: Mesh01
+    400022: Mesh01_001
+    400024: ___DUMMY_Group01
+    400026: Arc001
+    400028: Box104
+    400030: Line469
+    400032: Sphere001
+    400034: ___DUMMY_Group01_001
+    400036: Box1579000
+    400038: Box1579001
+    400040: Box1579009
+    400042: ChamferBo0
+    400044: ChamferBox
+    400046: Line178950
+    400048: Line178951
+    400050: Line178953
+    400052: fixture
+    400054: foot_botto
+    400056: loewe_butt
+    400058: Loewe_Indi
+    400060: Stereospea
+    400062: Plane
+    400064: Plane_001
+    2300000: Cube
+    2300002: Cube_001
+    2300004: Cube_002
+    2300006: //RootNode
+    2300008: Cylinder
+    2300010: Cube_003
+    2300012: Cube_004
+    2300014: Cube_005
+    2300016: Cube_006
+    2300018: Cube_007
+    2300020: Mesh01
+    2300022: Mesh01_001
+    2300024: Arc001
+    2300026: Box104
+    2300028: Line469
+    2300030: Sphere001
+    2300032: Box1579000
+    2300034: Box1579001
+    2300036: Box1579009
+    2300038: ChamferBo0
+    2300040: ChamferBox
+    2300042: Line178950
+    2300044: Line178951
+    2300046: Line178953
+    2300048: fixture
+    2300050: foot_botto
+    2300052: loewe_butt
+    2300054: Loewe_Indi
+    2300056: Stereospea
+    2300058: Plane
+    2300060: Plane_001
+    3300000: Cube
+    3300002: Cube_001
+    3300004: Cube_002
+    3300006: //RootNode
+    3300008: Cylinder
+    3300010: Cube_003
+    3300012: Cube_004
+    3300014: Cube_005
+    3300016: Cube_006
+    3300018: Cube_007
+    3300020: Mesh01
+    3300022: Mesh01_001
+    3300024: Arc001
+    3300026: Box104
+    3300028: Line469
+    3300030: Sphere001
+    3300032: Box1579000
+    3300034: Box1579001
+    3300036: Box1579009
+    3300038: ChamferBo0
+    3300040: ChamferBox
+    3300042: Line178950
+    3300044: Line178951
+    3300046: Line178953
+    3300048: fixture
+    3300050: foot_botto
+    3300052: loewe_butt
+    3300054: Loewe_Indi
+    3300056: Stereospea
+    3300058: Plane
+    3300060: Plane_001
+    4300000: Cube_001
+    4300002: Cube_002
+    4300004: Cube
+    4300006: Cylinder
+    4300008: Cube_007
+    4300010: Cube_006
+    4300012: Cube_005
+    4300014: Cube_004
+    4300016: Cube_003
+    4300018: Mesh01_001
+    4300020: Mesh01
+    4300022: Arc001
+    4300024: Sphere001
+    4300026: Box104
+    4300028: Line469
+    4300030: Line178951
+    4300032: Line178950
+    4300034: ChamferBo0
+    4300036: ChamferBox
+    4300038: Box1579001
+    4300040: Box1579000
+    4300042: Box1579009
+    4300044: Line178953
+    4300046: foot_botto
+    4300048: fixture
+    4300050: loewe_butt
+    4300052: Stereospea
+    4300054: Loewe_Indi
+    4300056: Plane
+    4300058: Plane_001
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
