@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using Valve.VR;
 
 
 public class restartScene : MonoBehaviour {
@@ -14,7 +15,7 @@ public class restartScene : MonoBehaviour {
 		{
 			//Application.LoadLevel ("ambient test");
 			//SceneManager.LoadScene ("ambient test");
-			//SteamVR_LoadLevel.Begin(loadScene);
+			SteamVR_LoadLevel.Begin(loadScene);
 		}
 	}
 
