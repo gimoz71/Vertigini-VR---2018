@@ -1,9 +1,7 @@
 fileFormatVersion: 2
 guid: 6c2fd5fc1dcece047ac3fe5cd78c0dda
-timeCreated: 1488447521
-licenseType: Free
 ModelImporter:
-  serializedVersion: 19
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: Cube
     100002: Cube_001
@@ -38,6 +36,21 @@ ModelImporter:
     100060: Stereospea
     100062: Plane
     100064: Plane_001
+    100066: Eames_DSW_Chair_001
+    100068: Eames_DSW_Chair_001_001
+    100070: Eames_DSW_Details_001
+    100072: Eames_DSW_Details_001_001
+    100074: Eames_DSW_Legs_001
+    100076: Eames_DSW_Legs_001_001
+    100078: Eames_DSW_Metals_001
+    100080: Eames_DSW_Metals_001_001
+    100082: Eames_DSW_Top_001
+    100084: Eames_DSW_Top_001_001
+    100086: Eames_DSW_Chair_001_002
+    100088: Eames_DSW_Details_001_002
+    100090: Eames_DSW_Legs_001_002
+    100092: Eames_DSW_Metals_001_002
+    100094: Eames_DSW_Top_001_002
     400000: Cube
     400002: Cube_001
     400004: Cube_002
@@ -71,6 +84,21 @@ ModelImporter:
     400060: Stereospea
     400062: Plane
     400064: Plane_001
+    400066: Eames_DSW_Chair_001
+    400068: Eames_DSW_Chair_001_001
+    400070: Eames_DSW_Details_001
+    400072: Eames_DSW_Details_001_001
+    400074: Eames_DSW_Legs_001
+    400076: Eames_DSW_Legs_001_001
+    400078: Eames_DSW_Metals_001
+    400080: Eames_DSW_Metals_001_001
+    400082: Eames_DSW_Top_001
+    400084: Eames_DSW_Top_001_001
+    400086: Eames_DSW_Chair_001_002
+    400088: Eames_DSW_Details_001_002
+    400090: Eames_DSW_Legs_001_002
+    400092: Eames_DSW_Metals_001_002
+    400094: Eames_DSW_Top_001_002
     2300000: Cube
     2300002: Cube_001
     2300004: Cube_002
@@ -102,6 +130,18 @@ ModelImporter:
     2300056: Stereospea
     2300058: Plane
     2300060: Plane_001
+    2300062: Eames_DSW_Details_001
+    2300064: Eames_DSW_Details_001_001
+    2300066: Eames_DSW_Legs_001
+    2300068: Eames_DSW_Legs_001_001
+    2300070: Eames_DSW_Metals_001
+    2300072: Eames_DSW_Metals_001_001
+    2300074: Eames_DSW_Top_001
+    2300076: Eames_DSW_Top_001_001
+    2300078: Eames_DSW_Details_001_002
+    2300080: Eames_DSW_Legs_001_002
+    2300082: Eames_DSW_Metals_001_002
+    2300084: Eames_DSW_Top_001_002
     3300000: Cube
     3300002: Cube_001
     3300004: Cube_002
@@ -133,6 +173,18 @@ ModelImporter:
     3300056: Stereospea
     3300058: Plane
     3300060: Plane_001
+    3300062: Eames_DSW_Details_001
+    3300064: Eames_DSW_Details_001_001
+    3300066: Eames_DSW_Legs_001
+    3300068: Eames_DSW_Legs_001_001
+    3300070: Eames_DSW_Metals_001
+    3300072: Eames_DSW_Metals_001_001
+    3300074: Eames_DSW_Top_001
+    3300076: Eames_DSW_Top_001_001
+    3300078: Eames_DSW_Details_001_002
+    3300080: Eames_DSW_Legs_001_002
+    3300082: Eames_DSW_Metals_001_002
+    3300084: Eames_DSW_Top_001_002
     4300000: Cube_001
     4300002: Cube_002
     4300004: Cube
@@ -163,28 +215,177 @@ ModelImporter:
     4300054: Loewe_Indi
     4300056: Plane
     4300058: Plane_001
+    4300060: Eames_DSW_Legs_001_001
+    4300062: Eames_DSW_Metals_001_001
+    4300064: Eames_DSW_Top_001_001
+    4300066: Eames_DSW_Details_001_001
+    4300068: Eames_DSW_Details_001
+    4300070: Eames_DSW_Top_001
+    4300072: Eames_DSW_Metals_001
+    4300074: Eames_DSW_Legs_001
+    4300076: Eames_DSW_Details_001_002
+    4300078: Eames_DSW_Top_001_002
+    4300080: Eames_DSW_Metals_001_002
+    4300082: Eames_DSW_Legs_001_002
     7400000: Default Take
     9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BS_White
+    second: {fileID: 2100000, guid: 10e05a6aa7224e54f9576ed1a104cc7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black_Metal
+    second: {fileID: 2100000, guid: 9d870f49d5bb1e54bb491958d838b7fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ce
+    second: {fileID: 2100000, guid: 9f33825627f91c94d92ea07e01d33578, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leather
+    second: {fileID: 2100000, guid: 2df5be71818862e4baf077f5a1a5fa34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__30________
+    second: {fileID: 2100000, guid: ebddc9e207f12a442a7f579986bb8f9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Details
+    second: {fileID: 2100000, guid: aca34acd1bc748e409d9ee701f90fd32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rubber
+    second: {fileID: 2100000, guid: 3ef9eef1d7f70614ea17f3050046350e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: 9bfc7624d3993894d8728f7d86d99395, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Black
+    second: {fileID: 2100000, guid: 5b7495364eada5b48b9f09611fb87e82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome_go
+    second: {fileID: 2100000, guid: e6be7ece2d706904c8d1bdc60fd981b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor
+    second: {fileID: 2100000, guid: 474406e8c4e60164faac492e501599d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glossy
+    second: {fileID: 2100000, guid: 3a4b49c4d69f4b74cbae54f7543b0df8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gold
+    second: {fileID: 2100000, guid: 669273455e5c789428d9eebe2f370b51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: loewe_button_let
+    second: {fileID: 2100000, guid: 3bd54e417eab36f42b0782e83b9ede4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: ddf189a8ea3561446981fcb0ba593d44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mramor
+    second: {fileID: 2100000, guid: 0b4f2e4f74804af4c85925b4cb449a0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sofa-base
+    second: {fileID: 2100000, guid: efd92c4bafd4b064cbad6b4dab8aa671, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: speaker_grill_001
+    second: {fileID: 2100000, guid: 7c8e7a75ef075dc4f9e6ad6de8a70fb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: speaker_side_001
+    second: {fileID: 2100000, guid: bf45b00157f7d274b806dc7a89a1547a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: st_gold__GOLD356_JPG_001
+    second: {fileID: 2100000, guid: e9e377fa358a7644dafff2e63821b259, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: st_metal_21__METALBL_JPG_003
+    second: {fileID: 2100000, guid: 7e010892751cac0409b83cd11ac69efe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: st_metal_2__METALBL_JPG_001
+    second: {fileID: 2100000, guid: 7e010892751cac0409b83cd11ac69efe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: st_tile__DIRT_MAP_JPG_001
+    second: {fileID: 2100000, guid: 165977e915da62e47a936ac12f5f7348, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tv_screen_001
+    second: {fileID: 2100000, guid: 5f906229c91bc9e4db064a5b38824e67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tv_side_001
+    second: {fileID: 2100000, guid: bdfe384684824de4cad7e446b8414d08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: a241ebaf29638ee4aa91c1e52a41c220, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -192,22 +393,30 @@ ModelImporter:
     globalScale: 1.5
     meshCompression: 0
     addColliders: 0
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1.5
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+    normalCalculationMode: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
@@ -222,7 +431,6 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1

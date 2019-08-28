@@ -45,7 +45,7 @@ Shader "VolumetricFogAndMist/VolumetricFog" {
 // Disabled by Shader Control: #pragma multi_compile __ FOG_BLUR_ON
 #pragma multi_compile __ FOG_POINT_LIGHTS
 // Disabled by Shader Control: #pragma multi_compile __ FOG_SUN_SHADOWS_ON
-// Disabled by Shader Control: #pragma multi_compile __ FOG_COMPUTE_DEPTH
+#pragma multi_compile __ FOG_COMPUTE_DEPTH
 #pragma fragmentoption ARB_precision_hint_fastest
 	#pragma target 3.0
 			#include "VolumetricFog.cginc"
@@ -62,7 +62,7 @@ Shader "VolumetricFogAndMist/VolumetricFog" {
 // Disabled by Shader Control: #pragma multi_compile __ FOG_USE_XY_PLANE
 #pragma multi_compile __ FOG_POINT_LIGHTS
 // Disabled by Shader Control: #pragma multi_compile __ FOG_SUN_SHADOWS_ON
-// Disabled by Shader Control: #pragma multi_compile __ FOG_COMPUTE_DEPTH
+#pragma multi_compile __ FOG_COMPUTE_DEPTH
 #define FOG_DIFFUSION 1
    	#pragma fragmentoption ARB_precision_hint_fastest
 	#pragma target 3.0
@@ -76,7 +76,7 @@ Shader "VolumetricFogAndMist/VolumetricFog" {
 // Disabled by Shader Control: #pragma multi_compile __ FOG_HAZE_ON
 // Disabled by Shader Control: #pragma multi_compile __ FOG_SCATTERING_ON
 // Disabled by Shader Control: #pragma multi_compile __ FOG_BLUR_ON
-// Disabled by Shader Control: #pragma multi_compile __ FOG_COMPUTE_DEPTH
+#pragma multi_compile __ FOG_COMPUTE_DEPTH
    	#pragma fragmentoption ARB_precision_hint_fastest
 	#pragma target 3.0
 			#include "VolumetricFog.cginc"
@@ -93,7 +93,7 @@ Shader "VolumetricFogAndMist/VolumetricFog" {
 // Disabled by Shader Control: #pragma multi_compile __ FOG_USE_XY_PLANE
 #pragma multi_compile __ FOG_POINT_LIGHTS
 // Disabled by Shader Control: #pragma multi_compile __ FOG_SUN_SHADOWS_ON
-// Disabled by Shader Control: #pragma multi_compile __ FOG_COMPUTE_DEPTH
+#pragma multi_compile __ FOG_COMPUTE_DEPTH
 #define FOG_DIFFUSION 1
 				#pragma fragmentoption ARB_precision_hint_fastest
 				#pragma target 3.0
@@ -106,7 +106,7 @@ Shader "VolumetricFogAndMist/VolumetricFog" {
 			#pragma fragment fragGetJustDepth
    	#pragma fragmentoption ARB_precision_hint_fastest
 	#pragma target 3.0
-// Disabled by Shader Control: #pragma multi_compile __ FOG_COMPUTE_DEPTH
+#pragma multi_compile __ FOG_COMPUTE_DEPTH
 			#include "VolumetricFog.cginc"
 			ENDCG
 		}

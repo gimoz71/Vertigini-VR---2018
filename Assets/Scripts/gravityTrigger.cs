@@ -4,9 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class gravityTrigger : MonoBehaviour {
-
-	public GameObject gravityiCollisor;
-
+    
 	void OnTriggerEnter (Collider other) 
 	{
 		if(other.tag == "box")

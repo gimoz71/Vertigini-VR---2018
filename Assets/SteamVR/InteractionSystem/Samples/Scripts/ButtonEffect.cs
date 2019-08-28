@@ -9,6 +9,9 @@ namespace Valve.VR.InteractionSystem.Sample
 {
     public class ButtonEffect : MonoBehaviour
     {
+
+        Color customRed = new Color(0.9882353f, 2823529f, 0.145098f);
+
         public void OnButtonDown(Hand fromHand)
         {
             ColorSelf(Color.cyan);
@@ -19,6 +22,7 @@ namespace Valve.VR.InteractionSystem.Sample
         {
             ColorSelf(Color.white);
         }
+        
 
         private void ColorSelf(Color newColor)
         {
